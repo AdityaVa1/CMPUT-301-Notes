@@ -1,0 +1,1 @@
+This repository is meant for documenting my education, for educational purposes only.
