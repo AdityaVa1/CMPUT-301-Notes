@@ -1,0 +1,1 @@
+Indicates a loose relationship between two [[UML Diagrams]]. Not dependent on each other, if one is destroyed the other can continue to exist.
