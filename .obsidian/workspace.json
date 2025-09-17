@@ -334,6 +334,7 @@
   },
   "active": "fc3a8635b94709ab",
   "lastOpenFiles": [
+    "_images/UML_Decomposition_Aggregation.png",
     "Association.md",
     "Aggregation.md",
     "_images/UML_Decomposition_Association.png",
@@ -364,7 +365,6 @@
     "TODOs.md",
     "Stats.md",
     "Reading List.md",
-    "Meetings.md",
     "_templates/presentations/slides-cea",
     "_templates/presentations/resources-cea/deco-coin-blanc.png",
     "_templates/presentations/resources-cea/quote-rouge.png",
