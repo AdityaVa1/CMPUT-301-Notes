@@ -187,6 +187,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "daily-notes-editor:Open Daily Note Editor": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
