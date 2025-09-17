@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Principle.md",
+                "file": "2. Notions/Design Principle.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstraction.md",
+                "file": "2. Notions/Abstraction.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encapsulation.md",
+                "file": "2. Notions/Encapsulation.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decomposition.md",
+                "file": "2. Notions/Decomposition.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generalization.md",
+                "file": "2. Notions/Generalization.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML Diagrams.md",
+                "file": "2. Notions/UML Diagrams.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstraction (UML).md",
+                "file": "2. Notions/Abstraction (UML).md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encapsulation (UML).md",
+                "file": "2. Notions/Encapsulation (UML).md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Association.md",
+                "file": "2. Notions/Association.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aggregation.md",
+                "file": "2. Notions/Aggregation.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,16 +153,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composition.md",
+                "file": "2. Notions/Abstraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Composition"
+              "title": "Abstraction"
+            }
+          },
+          {
+            "id": "0828a0c6125df982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generalization (UML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generalization (UML)"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -346,33 +360,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ff6390d7f7b7843",
+  "active": "0828a0c6125df982",
   "lastOpenFiles": [
-    "Aggregation.md",
-    "Composition.md",
-    "Association.md",
+    "2. Notions/Association.md",
+    "2. Notions/Aggregation.md",
+    "2. Notions/Composition.md",
+    "2. Notions/Decomposition (UML).md",
+    "2. Notions/UML Diagrams.md",
+    "2. Notions/Generalization.md",
+    "README.md",
+    "2. Notions/Abstraction.md",
+    "Generalization (UML).md",
+    "2. Notions/Encapsulation (UML).md",
     "Daily Notes/2025-09-17.md",
     "_images/UML_Decomposition_Composition.png",
     "_images/UML_Decomposition_Aggregation.png",
     "_images/UML_Decomposition_Association.png",
-    "Decomposition (UML).md",
-    "Encapsulation (UML).md",
     "_images/UML_Encapsulation.png",
-    "Abstraction (UML).md",
-    "Abstraction.md",
+    "2. Notions/Abstraction (UML).md",
     "_images/UML_Abstraction.png",
     "_images",
     "New folder",
-    "UML Diagrams.md",
-    "Generalization.md",
-    "Decomposition.md",
-    "Encapsulation.md",
-    "Design Principle.md",
+    "2. Notions/Decomposition.md",
+    "2. Notions/Encapsulation.md",
+    "2. Notions/Design Principle.md",
     "2. Notions/Design Principles.md",
     "_templates/zotero-source-note.md",
     "1. Source Notes/@rileySemiAutomatedConstructionSenseAnnotated.md",
     "1. Source Notes/@amouyalLargeLanguageModels2024.md",
-    "README.md",
     "_templates/source-note.md",
     "_templates/outline-note.md",
     "_templates/notion-note.md",
@@ -380,7 +395,6 @@
     "_templates/daily-note.md",
     "_taskido/demo_file.md",
     "TODOs.md",
-    "Stats.md",
     "_templates/presentations/slides-cea",
     "_templates/presentations/resources-cea/deco-coin-blanc.png",
     "_templates/presentations/resources-cea/quote-rouge.png",

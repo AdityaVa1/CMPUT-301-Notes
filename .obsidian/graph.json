@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "[\"category\": source-note] OR [\"category\": notion-note]",
+  "collapse-filter": true,
+  "search": "path:\"2. Notions\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 3.2942214180062614,
-  "close": false
+  "scale": 0.8526718451218298,
+  "close": true
 }
