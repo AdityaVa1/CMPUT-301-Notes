@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -360,8 +360,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e658661533e42ecf",
+  "active": "0828a0c6125df982",
   "lastOpenFiles": [
+    "2. Notions/Encapsulation (UML).md",
     "Generalization (UML).md",
     "_images/UML_Generalization.png",
     "2. Notions/Association.md",
@@ -372,7 +373,6 @@
     "2. Notions/Generalization.md",
     "README.md",
     "2. Notions/Abstraction.md",
-    "2. Notions/Encapsulation (UML).md",
     "Daily Notes/2025-09-17.md",
     "_images/UML_Decomposition_Composition.png",
     "_images/UML_Decomposition_Aggregation.png",
