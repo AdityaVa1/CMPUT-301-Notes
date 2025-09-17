@@ -1,0 +1,1 @@
+A Major [[Design Principle]]. In programming we use **methods** to generalize the function of an object. Useful for reducing redundancy between classes through inheritance.

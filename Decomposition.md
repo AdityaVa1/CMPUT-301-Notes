@@ -1,1 +1,1 @@
-Major [[Design Principle]]. Taking a **whole** and dividing it into **parts** 
+Major [[Design Principle]]. Taking a **whole** and dividing it into **parts**.
