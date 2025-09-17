@@ -362,6 +362,7 @@
   },
   "active": "0828a0c6125df982",
   "lastOpenFiles": [
+    "_images/UML_Generalization.png",
     "2. Notions/Association.md",
     "2. Notions/Aggregation.md",
     "2. Notions/Composition.md",
@@ -394,7 +395,6 @@
     "_templates/meeting-note.md",
     "_templates/daily-note.md",
     "_taskido/demo_file.md",
-    "TODOs.md",
     "_templates/presentations/slides-cea",
     "_templates/presentations/resources-cea/deco-coin-blanc.png",
     "_templates/presentations/resources-cea/quote-rouge.png",
