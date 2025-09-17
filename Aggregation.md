@@ -15,3 +15,5 @@ public class Airliner {
 	}
 }
 ```
+
+Object crew member is created with the Airliner, and method is there to add crew members, meaning even if we initialize the class with no crew members we can always add them from elsewhere. Allowing airliner object to have 0 crew members and still exist.

@@ -11,4 +11,4 @@ public class Person {
 }
 ```
 
-Object created elsewhere, 
+Object (hotel) created elsewhere, person has a method to ONLY interact with the object.

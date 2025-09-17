@@ -11,3 +11,5 @@ public class House {
 	}
 }
 ```
+
+The room object created with the house, and the room objkec
