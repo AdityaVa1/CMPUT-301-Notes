@@ -1,3 +1,3 @@
 Major [[Design Principle]]. 
 
-Simplifying a concept
+Simplifying a concept using attributes and behaviors/responsibilities
