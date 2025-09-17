@@ -1,0 +1,1 @@
+Indicates a strong "has-a" relationship between two [[UML Diagrams]]. Meaning the whole cannot exist without its parts. In this you can typically access the parts through the whole.

@@ -2,7 +2,7 @@ Indicates a loose relationship between two [[UML Diagrams]]. Not dependent on ea
 
 ![[UML_Decomposition_Association.png]]
 
-```java
+```javascript
 public class Person {
 	public void enter(Hotel hotel) {
 		execute.enter( hotel );
