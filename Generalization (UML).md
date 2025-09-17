@@ -23,3 +23,13 @@ public abstract class Animal {
 ```
 
 Since the Animal class is a generalization it should never be created as an object on its own, hence we use abstract.
+
+```javaScript
+public class Lion extends Animal {
+	public Lion (String name, int legs, int tails) {
+		super(name, legs, tails);
+	}
+	
+	public void roar() {..}
+}
+```
