@@ -1,0 +1,1 @@
+Indicates a "has-a" relationship between two [[UML Diagrams]]
