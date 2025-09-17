@@ -18,20 +18,49 @@
             }
           },
           {
-            "id": "d0e0c39f4b0e55cf",
+            "id": "5652d4fb1208e4c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Notions/Encapsulation (UML).md",
+                "file": "2. Notions/Composition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encapsulation (UML)"
+              "title": "Composition"
+            }
+          },
+          {
+            "id": "1c687e092eb30219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Notions/Aggregation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aggregation"
+            }
+          },
+          {
+            "id": "e28e015e4f3a9c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Notions/Association.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Association"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,18 +244,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63cacb5b3ea2f15e",
+  "active": "5652d4fb1208e4c2",
   "lastOpenFiles": [
-    "2. Notions/UML Diagrams.md",
-    "2. Notions/Decomposition (UML).md",
-    "2. Notions/Design Principle.md",
+    "2. Notions/Aggregation.md",
+    "2. Notions/Association.md",
     "2. Notions/Abstraction (UML).md",
+    "2. Notions/Decomposition (UML).md",
     "2. Notions/Encapsulation (UML).md",
+    "2. Notions/Composition.md",
+    "2. Notions/UML Diagrams.md",
+    "2. Notions/Design Principle.md",
     "2. Notions/Generalization (UML).md",
     "_images/UML_Generalization.png",
-    "2. Notions/Association.md",
-    "2. Notions/Aggregation.md",
-    "2. Notions/Composition.md",
     "2. Notions/Generalization.md",
     "README.md",
     "2. Notions/Abstraction.md",
