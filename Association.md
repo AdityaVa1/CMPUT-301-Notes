@@ -4,6 +4,11 @@ Indicates a loose relationship between two [[UML Diagrams]]. Not dependent on ea
 
 ```java
 public class Person {
-	public void enter
+	public void enter(Hotel hotel) {
+		//Code for adding person to hotel
+		...
+	}
+	...
 }
 ```
+
