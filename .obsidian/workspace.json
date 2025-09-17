@@ -348,6 +348,7 @@
   },
   "active": "1ff6390d7f7b7843",
   "lastOpenFiles": [
+    "_images/UML_Decomposition_Composition.png",
     "Aggregation.md",
     "Composition.md",
     "Association.md",
@@ -379,7 +380,6 @@
     "_taskido/demo_file.md",
     "TODOs.md",
     "Stats.md",
-    "Reading List.md",
     "_templates/presentations/slides-cea",
     "_templates/presentations/resources-cea/deco-coin-blanc.png",
     "_templates/presentations/resources-cea/quote-rouge.png",
