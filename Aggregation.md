@@ -1,1 +1,1 @@
-Indicates a "has-a" relationship between two [[UML Diagrams]]
+Indicates a "has-a" relationship between two [[UML Diagrams]]. A whole has parts from another object that belong to it. However, this 
