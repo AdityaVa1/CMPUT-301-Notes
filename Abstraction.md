@@ -1,1 +1,3 @@
-A major [[Design Principle]] for [[UML Diagrams]]
+Major [[Design Principle]]. 
+
+Simplifying a concept using attributes and behaviors/responsibilities
