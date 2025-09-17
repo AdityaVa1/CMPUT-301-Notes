@@ -1,4 +1,4 @@
-A major [[Design Principle]] for[[UML Diagrams]]
+A major Design Principle for [[UML Diagrams]]
 
 ![[UML_Abstraction.png]]
 
