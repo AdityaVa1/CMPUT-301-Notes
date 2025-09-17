@@ -6,6 +6,8 @@ Indicates a strong "has-a" relationship between two [[UML Diagrams]]. Meaning th
 public class House {
 	private Room room;
 	
-	public
+	public House() {
+		room = new Room();
+	}
 }
 ```
